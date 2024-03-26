@@ -1,7 +1,3 @@
-.container-photo{
-  
-}
-
 .contact-photo{
     border-radius: 50px;
     border: 1px solid black;
@@ -16,6 +12,7 @@ img{
 
 .icons{
     
-    width:   55px;
-    height: 55px;
+    width:   38px;
+    height: 38px;
+    margin: 10px;
 }
